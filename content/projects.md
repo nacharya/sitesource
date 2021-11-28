@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2021-11-28T10:57:49-08:00
-draft: true
+draft: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-11-27T18:19:10-08:00
-draft: true
+draft: false
 ---
 
 ### Data, Processing and Learning
