@@ -2,16 +2,16 @@ name: hugo publish
 
 on:
   push:
-    branches:
-    - master
+    branches: [ master ]
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
       with:
           submodules: true
+          fetch-depth: 1 
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
