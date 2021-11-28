@@ -8,10 +8,10 @@ canonifyurls = true
 enableEmoji = true
 enableRobotsTXT = true
 
-pygmentsstyle = "monokai"
-pygmentscodefences = false
-pygmentscodefencesguesssyntax = true
-pygmentsUseClasses = true
+#pygmentsstyle = "monokai"
+#pygmentscodefences = false
+#pygmentscodefencesguesssyntax = true
+#pygmentsUseClasses = true
 
 # Enable Disqus
 #disqusShortname = ""
@@ -29,7 +29,7 @@ dateFormat = "January 2, 2006"
 since = 2019
 favicon = "favicons/"
 footercontent = ""
-colorscheme = "light"
+colorscheme = "auto"
 hidecredits = false
 hidecopyright = false
 rtl = false
@@ -89,14 +89,6 @@ author = "authors"
     weight = 2
     url  = "/research/"
 [[menu.main]]
-    name = "Photos"
-    weight = 6
-    url  = "/photography/"
-[[menu.main]]
     name = "Projects"
     weight = 4
     url  = "/projects/"
-[[menu.main]]
-    name = "Hobbies"
-    weight = 4
-    url  = "/hobbies/"
