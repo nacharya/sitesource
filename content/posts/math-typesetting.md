@@ -1,6 +1,6 @@
 ---
 author: Hugo Authors
-title: Math Typesetting
+title: Math Typesetting for Math Equations in Markdown
 date: 2019-03-08
 description: A brief guide to setup KaTeX
 math: true
