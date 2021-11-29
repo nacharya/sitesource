@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2021-11-27T18:19:10-08:00
+authon: "nacharya"
 draft: false
 ---
 
@@ -17,11 +18,19 @@ Something I believed in the dotcom boom of the late ninties, and something that 
 
 ### Create a better world for Humanity
 
+*We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.*
+
+- Franklin D. Roosevelt
+
+*With realization of one's own potential and self-confidence in one's ability, one can build a better world.*
+
+- Dalai Lama
+
 A personal belief ..... best to spend time to make this world a better place for everyone.
 
 ### More Info
 
-I live in SF Bay Area and like to hike around the hills on weekends.
+Live in SF Bay Area and like to hike around the hills on weekends.
 
 ### Contact me
 
