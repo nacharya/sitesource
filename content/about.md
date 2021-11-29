@@ -18,13 +18,10 @@ Something I believed in the dotcom boom of the late ninties, and something that 
 
 ### Create a better world for Humanity
 
-*We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.*
+*We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon. 
+-Franklin D Roosevelt*
 
-- Franklin D. Roosevelt
-
-*With realization of one's own potential and self-confidence in one's ability, one can build a better world.*
-
-- Dalai Lama
+*With realization of one's own potential and self-confidence in one's ability, one can build a better world. -Dalai Lama*
 
 A personal belief ..... best to spend time to make this world a better place for everyone.
 
@@ -32,7 +29,7 @@ A personal belief ..... best to spend time to make this world a better place for
 
 Live in SF Bay Area and like to hike around the hills on weekends.
 
-### Contact me
+### Contact 
 
 [nabin.acharya@gmail.com](mailto:nabin.acharya@gmail.com)
 
