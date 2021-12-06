@@ -13,8 +13,8 @@ I am fond of data as it is persisted , mined and learned from. This includes Dat
 
 ### Technology and Products
 
-It is 2021. We have Technology everywhere in our lives. Whether you are making Enterprise products or Consumer oriented products, Technology is important in all aspects.
-Something I believed in the dotcom boom of the late ninties, and something that is relevant even today
+The year is 2021. We have Technology everywhere in our lives. Whether you are making Enterprise products or Consumer oriented products, Technology is important in all aspects.
+Technology affects the culture, efficiency , relationships, creativity and products of a business
 
 ### Create a better world for Humanity
 
