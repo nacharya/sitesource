@@ -23,11 +23,10 @@ jobs:
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        EXTERNAL_REPOSITORY: nacharya/nacharya.github.io
-        PUBLISH_BRANCH: master
-        PUBLISH_DIR: ./public
       with:
         commit_message: ${{ github.event.head_commit.message }}
         allow_empty_commit: false
+        deploy_key: ${{ secrects.ACTIONS_DEPLOY_KEY }}
+        external_repository: nacharya/nacharya.github.io
+        publish_branch: master
+        publish_dir: ./public
