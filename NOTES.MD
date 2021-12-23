@@ -89,7 +89,7 @@ __content-repo__ : [nacharya.github.io](https://github.com/nacharya/nacharya.git
 __content-repo__ Goto Settings->Deploy Keys. Choose "Add Deploy Key" and add 
 the contents of gh-pages.pub. 
 
-*build_repo* Goto Settings->Secrets. Choose "New repository secret" and add the contents of gh-pages and call it ACTIONS_DEPLOY_KEY
+*build_repo* Goto Settings->Secrets. Choose "New repository secret" and add the contents of gh-pages and call it ACTIONS*_*DEPLOY*_*KEY
 
 *build_repo* needs `.github/workflows/gh-pages.yml` with the following content 
 
