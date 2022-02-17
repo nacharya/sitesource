@@ -30,7 +30,8 @@ dateFormat = "January 2, 2006"
 since = 2019
 favicon = "favicons/"
 footercontent = ""
-colorscheme = "auto"
+# na: either auto, light or dark
+colorscheme = "dark"
 hidecredits = false
 hidecopyright = false
 rtl = false
@@ -86,9 +87,9 @@ author = "authors"
     weight = 3
     url  = "/posts/"
 [[menu.main]]
-    name = "Research"
+    name = "Articles"
     weight = 2
-    url  = "/research/"
+    url  = "/articles/"
 [[menu.main]]
     name = "Projects"
     weight = 4
