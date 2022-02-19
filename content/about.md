@@ -18,17 +18,17 @@ Technology affects the culture, efficiency , relationships, creativity and produ
 
 ### Create a better world for Humanity
 
-*We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.  -Franklin D Roosevelt*
++ *We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.  -Franklin D Roosevelt*
 
-*With realization of one's own potential and self-confidence in one's ability, one can build a better world for everyone.  -Dalai Lama*
++ *With realization of one's own potential and self-confidence in one's ability, one can build a better world for everyone.  -Dalai Lama*
 
-A personal belief ..... best to spend time to make this world a better place for everyone.
+A personal belief ..... It is best to spend time to make this world a better place for every human.
 
 ### More Info
 
 Live in SF Bay Area and like to hike around the hills on weekends.
 
-### Contact 
+### Contact
 
 [nabin.acharya@gmail.com](mailto:nabin.acharya@gmail.com)
 
