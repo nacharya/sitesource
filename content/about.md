@@ -9,11 +9,11 @@ draft: false
 
 Lots of data is easy to collect. It has to be persisted somewhere. Data has to be processed to find out what is relevant. If irrelevant data is thrown away, it reduces your cost to store it, reduces the cost to mine it. Data come it many many different formats and in many different channels in the Cloud. Continuous growth of information makes things interesting and it does make you look at Technology in different curious ways.
 
-I am fond of data as it is persisted , mined and learned from. This includes Data Storage, Data processing, Data mining and Learning from data using AI/ML techniques.
+I am fond of data as it is persisted , mined and learned from. This includes Data for Storage, Processing, Mining and building Contexts so Learning from data using AI/ML techniques becomes seamless.
 
 ### Technology and Products
 
-The year is 2022. We have Technology everywhere in our lives. Whether you are making Enterprise products or Consumer oriented products, Technology is important in all aspects.
+The year is 2023. We have Technology everywhere in our lives. Whether you are making Enterprise products or Consumer oriented products, Technology is important in all aspects.
 Technology affects the culture, efficiency , relationships, creativity and products of a business
 
 ### Create a better world for Humanity

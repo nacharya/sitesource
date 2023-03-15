@@ -4,6 +4,14 @@ The *build-repo* for the __content-repo__ of [nacharya.github.io](https://nachar
 
 - *build_repo* : [sitesource](http://github.com/nacharya/sitesource)
 - __content-repo__ : [nacharya.github.io](http://github.com/nacharya/nacharya.github.io)
+- *theme* used in this blog is [`hugo-coder`](https://github.com/luizdepra/hugo-coder)
+
+The *theme* stays as a `submodule` and needs to be updated periodically. 
+
+```bash
+% git submodule init
+% git submodule update
+```
 
 *build_repo* is all done using [Hugo](https://gohugo.io/), and the content is written using [Markdown](https://daringfireball.net/projects/markdown/)
 
