@@ -1,7 +1,7 @@
 ---
 title: "Spirit Mind Body"
 date: 2023-03-14T16:46:13-07:00
-draft: true
+draft: false
 ---
 
 ## Spirit

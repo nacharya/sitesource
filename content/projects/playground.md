@@ -1,7 +1,7 @@
 ---
 title: "Software Playground"
 date: 2021-10-10T16:56:50-07:00
-draft: true
+draft: false
 ---
 
 ## Mostly code playground for Technology actively used 2022

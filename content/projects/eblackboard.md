@@ -1,7 +1,7 @@
 ---
 title: "Eblackboard: a small edu platform"
 date: 2018-07-14T16:54:55-07:00
-draft: true
+draft: false
 ---
 
 ## Empowering students with Technology

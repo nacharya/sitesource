@@ -1,7 +1,7 @@
 ---
 title: "The Three Pillars: Foundational Belief"
 date: 2018-02-09T13:49:42-07:00
-draft: true
+draft: false
 ---
 
 # The Three Pillars: Foundational Belief

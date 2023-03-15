@@ -1,7 +1,7 @@
 ---
 title: "Architecture: What is it ? why do we care ?"
 date: 2020-07-18T16:48:41-07:00
-draft: true
+draft: false
 ---
 
 ## Architecture
