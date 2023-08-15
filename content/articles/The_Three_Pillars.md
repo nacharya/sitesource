@@ -11,7 +11,7 @@ Having spent many years working in the IT industry, here are some foundational p
 Turns out the human mind is capable of so much ... so much more. The rise of information helped create a human belief of `Always Learning`, a fundamental belief
 so engrained in our inner self, that the digital world has actually helped us achieve with ease.
 
-### <u>__Creative Curiosity__</u>
+### <ins> **Creative Curiosity** </ins>
 
 It is 2023 ...
 Given that the world, societies, human perceptions are always changing at such a rapid pace, It is amazing that we can visibly realize it on our smartphones in the palm of our hands
@@ -25,7 +25,7 @@ Once you are elevated enough, it is very easy to realize what is more relevant t
 
 Be curious, Be creative !
 
-### <u>__Excellence__</u>
+### <ins> **Excellence** </ins>
 
 Anything you do, Excellence is your key. Do your very best. It may not be the best one when you start, but if you keep doing it , you will excel better .
 
@@ -35,7 +35,7 @@ Excellence evokes the courage to take the path less travelled towards a just and
 
 An iterative path to success, but always on.
 
-### <u>__Service__</u>
+### <ins> **Service** </ins>
 
 This is one entity that allows us to be a better human. Doing good to others in need can only make this
 world a better place.
