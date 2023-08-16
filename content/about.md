@@ -11,6 +11,8 @@ Lots of data is easy to collect. It has to be persisted somewhere. Data has to b
 
 I am fond of data as it is persisted , mined and learned from. This includes Data for Storage, Processing, Mining and building Contexts so Learning from data using AI/ML techniques becomes seamless.
 
+![](data-deluge.jpg)
+
 ### Technology and Products
 
 The year is 2023. We have Technology everywhere in our lives. Whether you are making Enterprise products or Consumer oriented products, Technology is important in all aspects.
@@ -18,9 +20,9 @@ Technology affects the culture, efficiency , relationships, creativity and produ
 
 ### Create a better world for Humanity
 
-+ *We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.  -Franklin D Roosevelt*
+- _We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon. -Franklin D Roosevelt_
 
-+ *With realization of one's own potential and self-confidence in one's ability, one can build a better world for everyone.  -Dalai Lama*
+- _With realization of one's own potential and self-confidence in one's ability, one can build a better world for everyone. -Dalai Lama_
 
 A personal belief ..... It is best to spend time to make this world a better place for every human.
 
