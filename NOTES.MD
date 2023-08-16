@@ -24,6 +24,12 @@ Need to add the desired Hugo theme as a git submodule
 % git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
 ```
 
+Now sync the submodule repos including the ones they have recursively
+
+```bash
+git submodule update --init --recursive
+```
+
 Let's edit the main site configuration `config.toml` for a simple case and add a simple markdown page
 
 ```bash

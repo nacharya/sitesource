@@ -11,7 +11,7 @@ Lots of data is easy to collect. It has to be persisted somewhere. Data has to b
 
 I am fond of data as it is persisted , mined and learned from. This includes Data for Storage, Processing, Mining and building Contexts so Learning from data using AI/ML techniques becomes seamless.
 
-![](data-deluge.jpg)
+![](data-deluge.jpeg)
 
 ### Technology and Products
 

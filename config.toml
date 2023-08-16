@@ -21,7 +21,7 @@ enableInlineShortcodes = true
 
 [params]
 author = "Nabin Acharya"
-info = "Data Engineering, Data Science, Software Products & Architecture"
+info = "Software Products & Architecture, Data Science & Data Engineering"
 description = "Sailing pirate ships for fun"
 #keywords = "blog,data,iiot,fintech, software architecture"
 keywords = ""
