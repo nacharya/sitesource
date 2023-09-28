@@ -1,7 +1,7 @@
 ---
 title: "AI AI AI"
 date: 2023-08-14T23:24:20-07:00
-draft: true
+draft: false
 ---
 
 ## AI, AI, AI ........ the many different areas .... and growing!

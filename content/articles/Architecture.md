@@ -6,7 +6,7 @@ draft: false
 
 ## Architecture
 
-So what is `Architecture` ? As a kid , I only saw that everyone ties in the word Architecture to Buildings, Physical Structures that somehow captures human emotions intellectually.
+So what is `Architecture` ? As a kid , I only saw that everyone ties in the word Architecture to Buildings and Physical Structures that somehow captures human emotions intellectually.
 
 Folks working in Technology were a few and the word Architect was hardly used
 to describe anyone in the Software/IT profession.
@@ -28,7 +28,7 @@ It may sound trivial to some of you but it is not. The core aspect of thinking a
 
 There are a lot discussions, emails and documents needed on opinions, viewpoints -- counter arguments, debates to determine the best possible architectural outcome.
 
-Yes, it is code but a lot of code and a lot of structure that matters. 
+Yes, it is code but a lot of code and a lot of structure that eventually leads to -- Productization.
 
 ### References
 

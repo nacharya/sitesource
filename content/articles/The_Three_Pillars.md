@@ -44,7 +44,7 @@ It is simple, and It also helps a person's inner self. When you are doing good f
 
 Service raises social awareness, human interaction skills and allows connecting with the community at large.
 
-The most beautiful part is that people in all profession need this
+The most beautiful part is that people in all profession need this, and it helps build a much much socially connected valuable world for everyone
 
 ### References
 
