@@ -155,21 +155,48 @@ package main
 
 import "fmt"
 
+func HttpServer(port string) {
+    // will contain and HTTP server listener
+    // Please refer to Gin, Mux frameworks
+}
+
+func ReceiveCloudMessages(dataStream chan string) {
+    // Cloud API to receive messages e.g. AWS SQS
+    str := aws.ReceiveMessage()
+    // Now we place it in the channel
+    dataStream <- str
+}
+
 func main() {
-  // Create a channel.
-  messages := make(chan string)
 
-  // Create a subroutine that sends messages to the channel.
-  go func() {
-    messages <- "Hello, world!"
-    messages <- "Goodbye, world!"
-  }()
+  // Spin off a Webserver in a goroutine
+  go HttpServer(":8080")
 
-  // Create a subroutine that receives messages from the channel.
-  for message := range messages {
-    fmt.Println(message)
+  // create a stream that received messages from a Cloud service
+  // generic string message types 
+  // We also create a goroutine that receives messages from a cloud service
+  newStream := func() <-chan string {
+    edStream := make(chan string)
+    go ReceiveCloudMessages(edStream)
+    return edStream
   }
+  dataStream := newStream()
+
+  // now we loop forever reading from the channel
+  // and simply printing it
+  for {
+    rcvMessage, ok := <-dataStream
+    if ok {
+        fmt.Println("Received: ", rcvMessage)
+    }
+    time.Sleep(3 * time.Second)
+  }
+  
 }
 ```
 
-Here the `goroutine` publishes messages into the channel and the `main` function simply prints the messages in the channel.
+Here the `goroutine` that receives messages from a Cloud Service ( e.g. AWS SQS ) and 
+places them in the channel. The main thread is looping reading throgh the channel.
+It then prints the message received in the channel
+
+
