@@ -1,13 +1,13 @@
 +++ 
 draft = false
 date = 2023-09-28T14:36:37-07:00
-title = "Go: Contexts, Channels & Subroutines"
+title = "Go: Contexts, Channels & Goroutines"
 tags = ["go"]
 categories = []
 +++
 
 
-## Go: Contexts, Channels & Subroutines
+## Go: Contexts, Channels & Goroutines
 
 ### Concurrency
 
