@@ -1,7 +1,7 @@
 ---
-title: "Llm"
+title: "llm"
 date: 2023-10-24T11:50:56-07:00
-draft: true
+draft: false
 ---
 
 ## Scope
@@ -45,6 +45,15 @@ If you are building applications you need access to:
 
 
 
+
+### Links 
+
+Here are a few links really worth looking into 
+
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [LangChain Demo](https://www.youtube.com/watch?v=zaYTXQFR0_s)
+- [Practical Deep Learning](https://course.fast.ai/) -- PyTorch based 
+- [Autogen: Microsoft Research Intro](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) 
 
 
 
