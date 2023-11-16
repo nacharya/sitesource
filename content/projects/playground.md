@@ -6,7 +6,10 @@ draft: false
 
 ## Mostly code playground for Technology actively used 2022
 
-- Frameworks: NodeJS, TensorFlow, Jupyter, Hugo
+- Frameworks: NodeJS, TensorFlow, PyTorch, Jupyter, Hugo
 - Languages: Go, Python3, TypeScript, C, C++, F#
 - UI: React, Angular
-- Data: [S3 Data Access](http://github.com/nacharya/edgex_access), [EdgeFile](http://github.com/nacharya/edgex_file)
+- Data:
+    - [S3 Data Access](http://github.com/nacharya/edgex_access)
+    - [EdgeFile](http://github.com/nacharya/edgex_file)
+
