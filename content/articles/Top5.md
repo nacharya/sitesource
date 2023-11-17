@@ -22,7 +22,7 @@ A very common example of Architecture is the following list of layers
 - Persistence Layer 
 - Database Layer 
 
-![](./layered_pic.png)
+![](layered_pic.png)
 
 
 A very widely used pattern that includes UI patterns like MVP as it allows for the 
@@ -43,7 +43,7 @@ can still function incredibly well for high-traffic scalable systems.
 It also allows for minimizing the dependencies to the `event` structures within certain 
 categories ( `topic` ) only. 
 
-![](./events_pic.png)
+![](events_pic.png)
 
 
 One commonly used and discussed widely pattern is the CQRS pattern. This patterns allows for the 
@@ -63,7 +63,7 @@ In this pattern , software application is developed as a collection of services.
 In this model, It provides the framework to develop, deploy, and maintain microservices
 architecture diagrams and services independently.
 
-![](./microservices_pic.png)
+![](microservices_pic.png)
 
 Much of the structures around Cloud Engineering have very good automation for building 
 and deploying microservices to live systems withot any downtime. 
@@ -79,7 +79,7 @@ and surround it with components we call `Plug-in` .
 All plugins are dependent on the core itself but isolates the dependencies across
 plugins.
 
-![](./microkernel_pic.png)
+![](microkernel_pic.png)
 
 
 Software lifecycle of the `core` and the `Plug-in` can be very different here. e.g. In the traditional OS, the device drivers are like `Plug-in`  and can have their own software lifecycle.
@@ -90,7 +90,7 @@ This pattern is the traditional model of designing sofftware applications. In th
 softwae application is developed as a single unit, one single codebase but with many different 
 subcomponents organized in the same codebase. 
 
-![](./monolithic_pic.png)
+![](monolithic_pic.png)
 
 All the software components in a monolithic system are interdependent
 Monolitic pattern based systems are geared towards high-performance, simplicity and 
