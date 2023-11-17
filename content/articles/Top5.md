@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Software Architectural Patterns"
 date: 2023-11-16T10:22:22-08:00
-draft: true
+draft: false
 ---
 
 
@@ -22,6 +22,9 @@ A very common example of Architecture is the following list of layers
 - Persistence Layer 
 - Database Layer 
 
+![](layered_pic.png)
+
+
 A very widely used pattern that includes UI patterns like MVP as it allows for the 
 separation of Data Layer, Business Logic layer and User Presentation (UI) layers
 Each layer having a distinct responsibility makes it so the changes in one layer 
@@ -40,6 +43,9 @@ can still function incredibly well for high-traffic scalable systems.
 It also allows for minimizing the dependencies to the `event` structures within certain 
 categories ( `topic` ) only. 
 
+![](events_pic.png)
+
+
 One commonly used and discussed widely pattern is the CQRS pattern. This patterns allows for the 
 separation of write-operations ( commands ) and read-operations ( queries ). 
 In GraphQL terminology, read-operations are `Queries` and write-operations are `Mutations`
@@ -57,6 +63,8 @@ In this pattern , software application is developed as a collection of services.
 In this model, It provides the framework to develop, deploy, and maintain microservices
 architecture diagrams and services independently.
 
+![](microservices_pic.png)
+
 Much of the structures around Cloud Engineering have very good automation for building 
 and deploying microservices to live systems withot any downtime. 
 
@@ -71,14 +79,18 @@ and surround it with components we call `Plug-in` .
 All plugins are dependent on the core itself but isolates the dependencies across
 plugins.
 
-Software lifecycle of the `core` and the `Plug-in` can be very different here. 
+![](microkernel_pic.png)
 
+
+Software lifecycle of the `core` and the `Plug-in` can be very different here. e.g. In the traditional OS, the device drivers are like `Plug-in`  and can have their own software lifecycle.
 
 ### Monolithic Architecture 
 
 This pattern is the traditional model of designing sofftware applications. In this model 
 softwae application is developed as a single unit, one single codebase but with many different 
 subcomponents organized in the same codebase. 
+
+![](monolithic_pic.png)
 
 All the software components in a monolithic system are interdependent
 Monolitic pattern based systems are geared towards high-performance, simplicity and 
